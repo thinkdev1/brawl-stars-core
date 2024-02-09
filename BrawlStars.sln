@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrawlStars.Server", "BrawlStars.Server\BrawlStars.Server.csproj", "{72D6E4FB-14E7-47D0-A41D-5C3628441E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrawlStars.Logic", "BrawlStars.Logic\BrawlStars.Logic.csproj", "{F829DF91-7739-4C97-AC0D-1340EC57E09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D6E4FB-14E7-47D0-A41D-5C3628441E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D6E4FB-14E7-47D0-A41D-5C3628441E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D6E4FB-14E7-47D0-A41D-5C3628441E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D6E4FB-14E7-47D0-A41D-5C3628441E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F829DF91-7739-4C97-AC0D-1340EC57E09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F829DF91-7739-4C97-AC0D-1340EC57E09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F829DF91-7739-4C97-AC0D-1340EC57E09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F829DF91-7739-4C97-AC0D-1340EC57E09E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39EAF8EF-DFDE-44AB-BFB4-A5A4F1830416}
+	EndGlobalSection
+EndGlobal
